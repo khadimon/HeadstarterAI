@@ -1,8 +1,7 @@
 <img width="1440" alt="Screenshot 2024-08-04 at 08 27 18" src="https://github.com/user-attachments/assets/527112dd-8116-467e-bbe4-ab18dc908c16">
-YouTube: <iframe width="560" height="315" src="https://www.youtube.com/embed/6gcpT9i4BCE?si=K-9yVyUz1I9LM01D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+YouTube: https://youtu.be/6gcpT9i4BCE?si=CPCnRP1a1dv367ap  
+  
 
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
